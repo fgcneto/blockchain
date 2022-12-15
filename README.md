@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/00-presentation.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/00-presentation.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td>Bibliografia</td>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/01-bitcoin-overview.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/01-bitcoin-overview.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/02-blockchain-history.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/02-blockchain-history.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/03-blockchain-architecture-hashing.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/03-blockchain-architecture-hashing.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/04-blockchain-architecture-blocks.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/04-blockchain-architecture-blocks.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -95,7 +95,7 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/05-blockchain-architecture-network-mempool.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/05-blockchain-architecture-network-mempool.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -111,7 +111,7 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/06-blockchain-architecture-consensus.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/06-blockchain-architecture-consensus.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -127,7 +127,7 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/07-blockchain-architecture-consensus-advanced.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/07-blockchain-architecture-consensus-advanced.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   
   <tr>
@@ -135,7 +135,7 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/08-blockchain-architecture-signatures.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/08-blockchain-architecture-signatures.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -150,7 +150,7 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/09-blockchain-architecture-wallets.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/09-blockchain-architecture-wallets.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -166,14 +166,14 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/10-blockchain-architecture-transactions.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/10-blockchain-architecture-transactions.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td colspan="2"><strong>Arquitetura de um Blockchain: Script Bitcoin </strong></td>
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/11-blockchain-architecture-script-bitcoin.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/11-blockchain-architecture-script-bitcoin.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
@@ -189,8 +189,25 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/bitcoin/raw/main/slides/12-blockchain-architecture-nodes-and-forks.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/12-blockchain-architecture-nodes-and-forks.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
+  
+  <tr>
+    <td colspan="2"><strong>Ethereum e Smart Contracts </strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/13-ethereum-and-smart-contracts.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Ethereum - Solidity </strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/13-ethereum-and-smart-contracts.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+  
   <tr>
     <td>Leitura complementar</td>
     <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc">8</a> e <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc">10</a></td>
