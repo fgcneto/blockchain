@@ -1,15 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://github.com/fgcneto/bitcoin/blob/main/blockchain.py)
-
-## Descrição da API - Flash
-
-### A api possui 5 _end-points_:
-
-- **[POST]** `/transactions/create` - cria uma nova transação a ser incluída no próximo bloco. No corpo da requisicão HTTP, usando POST,deverá conter as informações necessárias para criação de uma nova transação.
-- **[GET]** `/transactions/mempool` para retornar a _memory pool_ do nó.
-- **[GET]** `/mine` para informar o nó para criar e minerar um novo bloco. Ou seja, um nó que for requisitado a partir desse end-point deve pegar todas as transações incluídas em seu memory pool, montar um bloco e minera-lo.
-- **[GET]** `/chain` para retornar o blockchain completo daquele nó.
-- **[POST]** `/nodes/register` para aceitar uma lista de novos nós no formato de URLs. Note que já existe uma variável do tipo conjunto (_set_) chamado `nodes` para armazenar os nós registrados.
-- **[GET]** `/nodes/resolve` para executar o modelo de consenso, resolvendo conflitos e garantindo que contém a cadeia de blocos correta. Basicamente o que deve ser feito pelo nó é solicitar a todos os seus nós registrados os seus respectivos blockchains. Então deve-se conferir se o blockchain é válido, e, se for maior (mais longo) que o atual, deve substitui-lo.
+## Repositório com o conteúdo e atividades da disciplina - Blockchain e Aplicações Descentrelizadas
 
 <table style="width:100%">
   
