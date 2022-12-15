@@ -205,7 +205,23 @@
   </tr>
   <tr>
     <td>Slides</td>
-    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/13-ethereum-and-smart-contracts.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/14-solidity.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Ethereum - Tokens e NFTs </strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/15-tokens.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Ethereum - Dapps</strong></td>
+  </tr>
+  <tr>
+    <td>Slides</td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/16-dapps.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   
   <tr>
