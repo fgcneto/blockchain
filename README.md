@@ -1,4 +1,4 @@
-## Repositório com o conteúdo e atividades da disciplina - Blockchain e Aplicações Descentrelizadas
+### Conteúdo e Atividades - Blockchain e Aplicações Descentrelizadas
 
 <table style="width:100%">
   
