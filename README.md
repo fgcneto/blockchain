@@ -252,13 +252,13 @@
     <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/16-dapps.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   <tr>
-    <td><strong>Exemplo DApp: Rifa</strong></td>
-    <td><a target="_blank" href="https://youtu.be/XjEIfoYu2Ps"><img src="https://img.shields.io/badge/-DApp Rifa-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/fgcneto/blockchain/tree/main/Dapps/dapp-rifa"><img src="https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github"></a>
+    <td><strong>DApp: Rifa</strong></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/tree/main/Dapps/dapp-rifa"><img src="https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github"></a>
   </td>
   </tr> 
   <tr>
     <td><strong>DApp: Lottery</strong></td>
-    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/tree/main/Dapps/Lottery-Contract"><img src="https://img.shields.io/badge/-Projeto Final-181717?style=flat-square&logo=github"></a></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/tree/main/Dapps/Lottery-Contract"><img src="https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github"></a></td>
   </tr>
   <tr>
     <td>Leitura complementar</td>
