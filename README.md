@@ -207,6 +207,14 @@
     <td>Slides</td>
     <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/13-ethereum-and-smart-contracts.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
+    <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc">7</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://github.com/ethereumbook/ethereumbook">Mastering Ethereum</a> <em>por A. Antonopoulos</em></td>
+  </tr>
 
   <tr>
     <td colspan="2"><strong>Ethereum - Solidity </strong></td>
@@ -214,6 +222,14 @@
   <tr>
     <td>Slides</td>
     <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/14-solidity.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
+  </tr>
+    <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/ethereumbook/ethereumbook/blob/develop/07smart-contracts-solidity.asciidoc">7</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://docs.soliditylang.org/">Documentação Solidity</a><br><a target="_blank" href="https://cryptozombies.io//">Curso CryptoZombies</a><br><a target="_blank" href="https://remix.ethereum.org/">Remix IDE</a><br><a target="_blank" href="https://faucet.sepolia.dev/">Ether Sepolia Faucet</a></td>
   </tr>
 
   <tr>
@@ -231,11 +247,26 @@
     <td>Dapp - Lottery</td>
     <td><a target="_blank" href="https://github.com/fgcneto/blockchain/tree/main/Dapps/Lottery-Contract"></a></td>
   </tr>
-  
   <tr>
     <td>Slides</td>
     <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/16-dapps.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
+  <tr>
+    <td><strong>Exemplo DApp: Rifa</strong></td>
+    <td><a target="_blank" href="https://youtu.be/XjEIfoYu2Ps"><img src="https://img.shields.io/badge/-DApp Rifa-ff0000?style=flat-square&logo=youtube"></a> <a target="_blank" href="https://github.com/fgcneto/blockchain/tree/main/Dapps/dapp-rifa"><img src="https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=github"></a>
+  </td>
+  </tr> 
+  <tr>
+    <td><strong>DApp: Lottery</strong></td>
+    <td><a target="_blank" href="https://github.com/fgcneto/blockchain/tree/main/Dapps/Lottery-Contract"><img src="https://img.shields.io/badge/-Projeto Final-181717?style=flat-square&logo=github"></a></td>
+  </tr>
+  <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/ethereumbook/ethereumbook/blob/develop/10tokens.asciidoc">10</a> e <a target="_blank" href="https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc">12</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://docs.soliditylang.org/">Documentação Solidity</a><br><a target="_blank" href="https://remix.ethereum.org/">Remix IDE</a></td>
   
     
 </table>
