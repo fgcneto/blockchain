@@ -191,6 +191,14 @@
     <td>Slides</td>
     <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/12-blockchain-architecture-nodes-and-forks.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
+    <tr>
+    <td>Leitura complementar</td>
+    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc">8</a> e <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc">10</a></td>
+  </tr>
+  <tr>
+    <td>Material complementar</td>
+    <td><a target="_blank" href="https://bitcoin.org/en/download">Cliente Bitcoin Core</a></td>
+  </tr>
   
   <tr>
     <td colspan="2"><strong>Ethereum e Smart Contracts </strong></td>
@@ -224,14 +232,6 @@
     <td><a target="_blank" href="https://github.com/fgcneto/blockchain/raw/main/slides/16-dapps.pdf"><img src="https://img.shields.io/badge/-Slides-008ED2?style=flat-square&logo=adobe-acrobat-reader"></a></td>
   </tr>
   
-  <tr>
-    <td>Leitura complementar</td>
-    <td>MB Capítulo <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch08.asciidoc">8</a> e <a target="_blank" href="https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch10.asciidoc">10</a></td>
-  </tr>
-  <tr>
-    <td>Material complementar</td>
-    <td><a target="_blank" href="https://bitcoin.org/en/download">Cliente Bitcoin Core</a></td>
-  </tr>
     
 </table>
 
